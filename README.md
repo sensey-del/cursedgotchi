@@ -11,7 +11,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/S3NSEY/Cursedgotchi/total) ![Stargazers](https://img.shields.io/github/stars/S3NSEY/Cursedgotchi?style=social) ![Issues](https://img.shields.io/github/issues/S3NSEY/Cursedgotchi) 
+![Downloads](https://img.shields.io/github/downloads/sensey-del/cursedgotchi/total) ![Stargazers](https://img.shields.io/github/stars/sensey-del/cursedgotchi?style=social) ![Issues](https://img.shields.io/github/issues/sensey-del/cursedgotchi) 
 
 ## About The Project
 
