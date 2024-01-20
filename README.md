@@ -8,16 +8,6 @@
 
   <p align="center">
     Custom faces for pwnagotchi
-    <br/>
-    <br/>
-    <a href="https://github.com/S3NSEY/Cursedgotchi"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/S3NSEY/Cursedgotchi">View Demo</a>
-    .
-    <a href="https://github.com/S3NSEY/Cursedgotchi/issues">Report Bug</a>
-    .
-    <a href="https://github.com/S3NSEY/Cursedgotchi/issues">Request Feature</a>
   </p>
 </p>
 
