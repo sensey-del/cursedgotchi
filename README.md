@@ -27,19 +27,18 @@ I decided to create interesting icons for pwnagotchi in my opinion, also i like 
 ### Prerequisites
 
 > Connect pwnagotchi to computer in MANU mode, with SSH connection.
-> Copy the images from cursedgotchi into custom faces folder
+> Copy the images from cursedgotchi into custom-faces folder
 
 ### Installation
 
 
-1. Open the pwnagotchi config.toml
+1. Open the pwnagotchi /etc/pwnagotchi/config.toml
 
 ```sh 
 vi /etc/pwnagothi/config.toml 
 ```
 2. Add path to folder with custom faces
 ```sh
-+i
 ###
 ui.faces.look_r = "/custom-faces/LOOK-R.png"
 ui.faces.look_l = "/custom-faces/LOOK-L.png"
@@ -68,7 +67,6 @@ ui.faces.upload1 = "/custom-faces/UPLOAD1.png"
 ui.faces.upload2 = "/custom-faces/UPLOAD2.png"
 ui.faces.png = true
 ###
-ESC, :wq
 ```
 
 Then reboot pwnagotchi service
