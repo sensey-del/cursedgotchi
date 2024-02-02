@@ -15,7 +15,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot#1.png)
+![Screen Shot](images/screenshot1.png)
 
 I decided to create interesting icons for pwnagotchi in my opinion, also i like 2-bit horrors (World of Horror or Lumpy Touch Garfield)
 
