@@ -15,7 +15,7 @@
 
 ## About The Project
 
-<img src="images/screenshot1.png" alt="Screenshot" width="125" height="50">
+<img src="images/screenshot1.png" alt="Screenshot" width="360" height="180">
 
 I decided to create interesting icons for pwnagotchi in my opinion, also i like 2-bit horrors (World of Horror or Lumpy Touch Garfield)
 
