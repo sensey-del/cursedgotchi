@@ -17,7 +17,7 @@
 
 <img src="images/screenshot1.png" alt="Screenshot" width="360" height="180">
 
-I decided to create interesting icons for pwnagotchi in my opinion, also i like 2-bit horrors (World of Horror or Lumpy Touch Garfield)
+Decided to create interesting icons for Pwnagotchi in my vision. I drew inspiration from 2-bit horrors, such as World of Horror, or the style of Garfield by Lumpy Touch.
 
 ## Getting Started
 
