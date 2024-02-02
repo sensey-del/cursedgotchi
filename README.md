@@ -17,7 +17,7 @@
 
 ![Screen Shot](images/screenshot.png)
 
-I decided to create interesting icons for pwnagotchi in my opinion
+I decided to create interesting icons for pwnagotchi in my opinion, also i like 2-bit horrors (World of Horror or Lumpy Touch Garfield)
 
 ## Getting Started
 
